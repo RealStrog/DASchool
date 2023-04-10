@@ -1,0 +1,1 @@
+{"\u0421onty": {"location": "EU", "volumes": 200, "comment": "moving_average"}, "Triangle": {"location": "CN", "volumes": 30, "comment": "monthly"}, "Stone": {"location": "EU", "volumes": 150, "comment": "moving_average"}, "Ant": {"location": "EU", "volumes": 70, "comment": "monthly"}, "Ivan": {"location": "RU", "volumes": 300, "comment": "moving_average"}}
